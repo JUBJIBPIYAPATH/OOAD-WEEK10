@@ -18,4 +18,11 @@ https://github.com/JUBJIBPIYAPATH/OOAD-WEEK10/blob/master/homework/SD1.png?raw=t
 "Database Sever"-->"student"  ```
 https://github.com/JUBJIBPIYAPATH/OOAD-WEEK10/blob/master/homework/SD2.png?raw=true
 
-
+3.ระบบส่งสินค้า
+```actor "sales department"
+"sales department"->"System Shipping ":lists
+"System Shipping"-->"Shipping department":Information Delivery
+"Shipping department"->"System Shipping":Packing
+"sales department"<--"System Shipping":Shipping
+"sales department"->"System Shipping":Check delivery
+"sales department"<--"System Shipping":The result of the check delivered ```
