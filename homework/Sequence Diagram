@@ -34,3 +34,4 @@ https://github.com/JUBJIBPIYAPATH/OOAD-WEEK10/blob/master/homework/SD3.png?raw=t
 "User"->"Computer":Make Photocopying
 "Computer"->"Printer":Photocopier
 "User"<--"Printer": out Photocopier ```
+https://github.com/JUBJIBPIYAPATH/OOAD-WEEK10/blob/master/homework/SD4.png?raw=true
