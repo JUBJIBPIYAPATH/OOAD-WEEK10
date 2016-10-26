@@ -26,3 +26,4 @@ https://github.com/JUBJIBPIYAPATH/OOAD-WEEK10/blob/master/homework/SD2.png?raw=t
 "sales department"<--"System Shipping":Shipping
 "sales department"->"System Shipping":Check delivery
 "sales department"<--"System Shipping":The result of the check delivered ```
+https://github.com/JUBJIBPIYAPATH/OOAD-WEEK10/blob/master/homework/SD3.png?raw=true
