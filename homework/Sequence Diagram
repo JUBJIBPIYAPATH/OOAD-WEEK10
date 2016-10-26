@@ -1,0 +1,9 @@
+1.ร้านขายหนังสือ
+``` actor Customers
+"Customers"->"Owner":Buy
+"Owner"->"Book Sales":Record sales
+"Customers"->"Owner":Pay
+"Customers"<-"Owner":Receipt
+"Owner"->"Stock":Edit Item
+"Customers"<-"Owner":Product  ```
+
