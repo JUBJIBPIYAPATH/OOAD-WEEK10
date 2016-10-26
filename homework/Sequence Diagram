@@ -6,4 +6,4 @@
 "Customers"<-"Owner":Receipt
 "Owner"->"Stock":Edit Item
 "Customers"<-"Owner":Product  ```
-
+https://github.com/JUBJIBPIYAPATH/OOAD-WEEK10/blob/master/homework/SD1.png?raw=true
