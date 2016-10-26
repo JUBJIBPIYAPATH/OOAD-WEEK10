@@ -7,3 +7,12 @@
 "Owner"->"Stock":Edit Item
 "Customers"<-"Owner":Product  ```
 https://github.com/JUBJIBPIYAPATH/OOAD-WEEK10/blob/master/homework/SD1.png?raw=true
+
+2.ทำแบบท่ดสอบออนไลน์ 
+``` actor student
+"student"->"WEB":look up test menu
+"WEB" --> "student":display test menu
+"student"->"WEB":choose test 1,2,3,4
+"E-leaming item"<-"WEB":choose test 1,2,3,4
+"Database Sever"<-"E-leaming item":choose test 1,2,3,4
+"Database Sever"-->"student"  ```
