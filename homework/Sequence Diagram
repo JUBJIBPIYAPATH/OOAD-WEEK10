@@ -46,3 +46,4 @@ actor "sales person"
 "selling"<-"sales person":price
 "selling"<-"sales person":Customer code
 "selling"-->"customers":product ```
+https://github.com/JUBJIBPIYAPATH/OOAD-WEEK10/blob/master/homework/SD5.png?raw=true
