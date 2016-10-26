@@ -35,3 +35,14 @@ https://github.com/JUBJIBPIYAPATH/OOAD-WEEK10/blob/master/homework/SD3.png?raw=t
 "Computer"->"Printer":Photocopier
 "User"<--"Printer": out Photocopier ```
 https://github.com/JUBJIBPIYAPATH/OOAD-WEEK10/blob/master/homework/SD4.png?raw=true
+
+5.สั่งซื้อสินค้า
+```actor "customers"
+actor "sales person"
+"customers"->"sales person":ordering
+"selling"<--"sales person":Create
+"selling"<-"sales person":Code For Sale
+"selling"<-"sales person":Sale date
+"selling"<-"sales person":price
+"selling"<-"sales person":Customer code
+"selling"-->"customers":product ```
